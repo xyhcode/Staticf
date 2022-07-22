@@ -1,0 +1,22 @@
+{
+  "name": "xyhhy-staticf",
+  "version": "1.0.0",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyhcode/Staticf.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "xyhcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyhcode/Staticf/issues"
+  },
+  "homepage": "https://github.com/xyhcode/Staticf#readme"
+}
