@@ -1,6 +1,6 @@
 {
   "name": "xyhhy-staticf",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "静态资源仓库",
   "main": "index.js",
   "scripts": {
